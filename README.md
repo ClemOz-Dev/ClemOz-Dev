@@ -1,8 +1,8 @@
 Salut le monde !
 
-`export const Motivation = () => {
+`export const Motivation = () => {`
 
-  const SoftSkill =[
+  ``const SoftSkill =[``
   
         'passion'= true,
         
@@ -10,10 +10,10 @@ Salut le monde !
         
         'curiosité'= true,
         
-  ];
-  return GrossePlusValuePourVotreEntreprise(SoftSkills);
+  ``];``
+  ``return GrossePlusValuePourVotreEntreprise(SoftSkills);``
   
-}`
+`}`
 
 
 
