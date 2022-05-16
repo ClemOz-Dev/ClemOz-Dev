@@ -1,24 +1,8 @@
-Salut le monde !
+Hello World !
 
-`export const Motivation = () => {`
+Junior JS full stack developer.
+Application development on Dart.
 
-  ``const SoftSkill ={``
-  
-        passion: true,
-        
-        rigueur: true,
-        
-        curiosité: true,
-        
-  ``};``
-  ``return GrossePlusValuePourVotreEntreprise(SoftSkills);``
-  
-`}`
+Looking forward to hearing from you !
 
-
-
-<!---
-ClemOz-Dev/ClemOz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Clément
